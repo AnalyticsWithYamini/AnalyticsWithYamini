@@ -2,8 +2,6 @@
 
 A passionate Data Engineer from India, dedicated to crafting high-performance data pipelines, optimizing ETL workflows, and transforming complex data into actionable insights to drive smarter decisions.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building scalable data pipelines with Apache Kafka, Spark, and cloud technologies.
 - 🌱 I’m currently learning vector databases (like Pinecone and Weaviate) to integrate AI capabilities into modern data workflows.
 - 👯 I’m looking to collaborate on data engineering projects requiring robust CI/CD pipelines for seamless deployment and maintenance.
